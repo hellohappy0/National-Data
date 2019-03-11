@@ -24,3 +24,5 @@ $ python main.py --type year --date 1978-2016 --dest data2016 --tree tree2016
 ```
 
 另外吐槽一下其实数据没压缩也才10+Mb。那些统计年鉴都是塞了一堆图才那么大的。
+
+可以访问下面链接直接下载最新： <a href="https://www.postgraduate.top/viewtopic.php?f=2&t=84">1978-2018年数据gbk编码版</a>
